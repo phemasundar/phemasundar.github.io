@@ -6,10 +6,10 @@
 name: hemaSundar Penugonda
 
 # Short bio or description (displayed in the header)
-description: Test Automation Professional with 10+ years experience | Functional test Automation Specialist | Agile expert | Test process maturity assessment Expert
+description: "Developer in Test"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/hema_author.jpg
+avatar: https://s.gravatar.com/avatar/7c3b63cc504ac4a1af222fddb7f7d424?s=80
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: phemasundar
   instagram:
-  linkedin: https://www.linkedin.com/in/hemasundarpenugonda/
+  linkedin: hemasundarpenugonda
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
