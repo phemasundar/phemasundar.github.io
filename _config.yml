@@ -88,7 +88,17 @@ content:
         quote: >
           Retail Store colleague experience project helps the Store colleagues (Store managers and on-ground staff) to minimize their manual effort in keeping track of the stock. It has multiple modules like maintaining the current stock numbers, stock to be imported, Information of discounts on items, maintaining the wastage, etc. As a functional automation tester, our job is to make sure that all the modules of the project are working fine with all different sets of data (store items) and can pass the info in between the modules.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - Used **Appium & Cucumber** to perform **Functional Testing & Regression & Retesting**.
+          - Build development CI pipeline using CICD tool **Jenkins** with **Git**
+          - Implemented **Hybrid Framework** with **Cucumber & TestNG**.
+          - Responsible for configuring & scheduling Jenkins jobs for executing test cases at regular intervals and nightly builds.
+          - Involved in **Kick-off meetings** with client to gather requirement.
+          - Involved in Sprint planning and prepared Test estimates.
+          - Understanding the Requirements and Functional Specifications of the application.
+          - Prepared & executed test cases and reported the results.
+          - Used **JIRA** for issue tracking.
+          - Involved in Review the Test Cases (Peer Review).
+          - Involved in daily stand-up meetings with onsite team members.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
