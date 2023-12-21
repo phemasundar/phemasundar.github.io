@@ -127,8 +127,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: Test Assessment - Harman
-        link:
-        link_text:
+        link: https://docs.google.com/spreadsheets/d/1gA76fgyqEHseIicL_kAbg67k6v6bhf1k/edit?usp=drive_link&ouid=113723328813175302587&rtpof=true&sd=true
+        link_text: Assessment Plan
         additional_links:
           - title:
             icon:
@@ -140,9 +140,10 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: McKinsey - Project 3
-        link:
-        link_text:
+        title: Lime - McKinsey
+        Domain: Insurance Domain
+        link: https://github.com/phemasundar/lime-web-automation-test
+        link_text: lime-web-automation-test
         additional_links:
           - title:
             icon:
