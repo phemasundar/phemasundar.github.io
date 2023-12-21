@@ -119,6 +119,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+          
           **Tools Used:**
           - Locust
           - Python
@@ -290,7 +291,7 @@ content:
           - Prepared & executed test cases and reported the results.
           - Involved in Review the Test Cases (Peer Review).
           
-          ** Tools Used:**
+          **Tools Used:**
           - Manual Testing
   - title: Experience
     layout: list
