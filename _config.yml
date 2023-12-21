@@ -72,6 +72,26 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
+        title: Store Colleague Experience
+        link: https://github.com/phemasundar/test-automation-core
+        link_text: Parent Repo
+        additional_links:
+          - title:  Native Mobile App Automation
+            icon: fab fa-github
+            url: https://github.com/phemasundar/test-automation-native-mobile
+          - title:  Web App Automation
+            icon: fab fa-github
+            url: https://github.com/phemasundar/test-automation-desktop-web
+          - title:  API Automation
+            icon: fab fa-github
+            url: https://github.com/phemasundar/test-automation-api
+        quote: >
+          Retail Store colleague experience project helps the Store colleagues (Store managers and on-ground staff) to minimize their manual effort in keeping track of the stock. It has multiple modules like maintaining the current stock numbers, stock to be imported, Information of discounts on items, maintaining the wastage, etc. As a functional automation tester, our job is to make sure that all the modules of the project are working fine with all different sets of data (store items) and can pass the info in between the modules.
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                      # other value (or no value) means no border will be displayed
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
