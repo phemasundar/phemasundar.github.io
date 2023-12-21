@@ -54,14 +54,23 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/IMG_0995_1_500x506_100.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#
+#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
 #    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I am an Automation test Engineer with 12 years of experience in <mark>Functional testing</mark>. I have helped companies release their products by assuring them of better quality.
 
+  Some examples include
+  - As a test engineer at Trivium, I have introduced test automation into the team by using Selenium & JAVA. Automated most of the repeated tasks like creating Test users creation, Sanity tests, Creating Test data, etc...
+  - As a senior consultant at Xebia, I have helped multiple clients by implementing functional UI automation tests for browsers & mobile apps by using tools Selenium & Appium.
+  - As a lead consultant in Xebia, I have helped clients with their Testing process assessment, thereby the betterment of their testing process.
+  - Delivered multiple projects in Test lead role.
+  - Have good experience in creating CI pipelines using Jenkins & Azure DevOps
+  
+  I get excited about opportunities where I get to improve myself by learning new things & to work in a good team environment.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
