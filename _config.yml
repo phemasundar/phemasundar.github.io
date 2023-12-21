@@ -72,7 +72,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Store Colleague Experience
+        title: Store Colleague Experience - Price Integrity
         link: https://github.com/phemasundar/test-automation-core
         link_text: Parent Repo
         additional_links:
@@ -99,23 +99,199 @@ content:
           - Used **JIRA** for issue tracking.
           - Involved in Review the Test Cases (Peer Review).
           - Involved in daily stand-up meetings with onsite team members.
+          
+          **Tools Used:**
+          - Selenium WebDriver
+          - Appium
+          - Azure DevOps
+          - Soti
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: TESCO Project 2
+        link:
+        link_text:
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:
+            icon:
+            url:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+          **Tools Used:**
+          - Locust
+          - Python
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                      # other value (or no value) means no border will be displayed
+        title: Test Assessment - Harman
+        link:
+        link_text:
+        additional_links:
+          - title:
+            icon:
+            url:
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                      # other value (or no value) means no border will be displayed
+        title: McKinsey - Project 3
+        link:
+        link_text:
+        additional_links:
+          - title:
+            icon:
+            url:
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                      # other value (or no value) means no border will be displayed
+        title: InsideRX - McKinsey
+        link:
+        link_text:
+        additional_links:
+          - title:
+            icon:
+            url:
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                      # other value (or no value) means no border will be displayed
+        title: True iServices - McKinsey
+        link:
+        link_text:
+        additional_links:
+          - title:
+            icon:
+            url:
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+          
+          **Tools Used:**
+          - Android & iOS native app automation
+          - Sauce Labs
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                      # other value (or no value) means no border will be displayed
+        title: Coin Automation - vereniging COIN
+        link:
+        link_text:
+        additional_links:
+          - title:
+            icon:
+            url:
+        quote: >
+          COIN Association is a partnership between providers of electronic communication services and networks. COIN ensures a joint and reliable service provision that allows end-users to easily change providers, while remaining available on their phone number. In addition, we assist our members to meet a number of the legal obligations they have as telecommunications providers. We also provide services that help you and other providers to cooperate with each other more efficiently, for example, in terms of number portability. So together we can make sure that end-users are assisted quickly, properly and in a user-friendly manner.
+        description: | # this will include new lines to allow paragraphs
+          - Used **Selenium & SOAPUI** to perform **WebService testing, Functional Testing & Regression & Retesting**.
+          - Build development pipe line using CICD tool **Jenkins** with **Git**
+          - Implemented **Hybrid Framework** with **TestNG &** **SOAPUI**.
+          - Responsible for configuring & scheduling Jenkins jobs for executing test cases at regular intervals.
+          - Involved in **Kick-off meetings** with client to gather requirement.
+          - Involved in Sprint planning and prepared Test estimates.
+          - Involved in preparing Test plan.
+          - Understanding the Requirements and Functional Specifications of the application.
+          - Prepared & executed test cases and reported the results.
+          - Used **JIRA** for issue tracking.
+          - Involved in Review the Test Cases (Peer Review).
+          - Involved in daily stand-up meetings with onsite team members.
+          
+          **Tools Used:**
+          - SOAP UI
+          - JENKINS pipelines
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                      # other value (or no value) means no border will be displayed
+        title: Tribune Automation - Chicago Tribune
+        link:
+        link_text:
+        additional_links:
+          - title:
+            icon:
+            url:
+        quote: >
+          Tribune is a media-based company majorly into newspaper which is one of the leading newspapers in USA. Our current project is about automating the test cases for online newspaper edition. Currently we are using Key word driven Framework.
+        description: | # this will include new lines to allow paragraphs
+          - Used **Selenium & Appium** to perform **Functional Testing & Regression & Retesting**.
+          - Implemented **Keyword Driven Framework** with **TestNG &** **Maven**.
+          - Implemented **Remote browser execution** using Selenium Grid & **parallel execution** using TestNG.
+          - Responsible for executing appium test cases in web browser (Chrome) in TestDroid cloud devices.
+          - Responsible for configuring & scheduling Jenkins jobs for executing test cases at regular intervals.
+          - Involved in **Kick-off meetings** with client to gather requirement.
+          - Created **XML File for Driver Scripts.**
+          - Implemented Creating TestNG.xml file in run time to achieve parallel execution within the Test group.
+          - Created Assert, Verify Commands for Validations, Synchronization commands
+          - Understanding the Requirements and Functional Specifications of the application.
+          - Performed Browser based testing.
+          - Prepared & executed test cases and reported the results.
+          - Used **JIRA** for issue tracking.
+          - Involved in Review the Test Cases (Peer Review).
+          - Involved in daily stand-up meetings with onsite team members.
+          
+          **Tools Used:**
+          - APPIUM
+          - Mobile Web browser automation
+          - Selenium Grid
+          - Parallel Execution
+          - Keyword driven framework
+          - TestNG
+          - Image Comparision
+          - Selenium Grid
+          - Parallel Execution
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                      # other value (or no value) means no border will be displayed
+        title: UC eBanking Prime - UniCredit Bank, Germany
+        link:
+        link_text:
+        additional_links:
+          - title:
+            icon:
+            url:
+        quote: >
+          This application has developed for UniCredit Bank, German which is one of the leading banks in German. This application is developed to be used by the corporate customers of the bank. By initializing keys in the IBS through the application, user able to fetches all the account data of the respective customer. And the application maintains the fetched data of the Customer such as Accounts and Payments history.
+        description: | # this will include new lines to allow paragraphs
+          - Used **Selenium** to perform **Functional Testing & Regression & Retesting**.
+          - Implemented **Data Driven**, **Keyword Driven**, and **Hybrid Frameworks** with **TestNG**, **Maven** and **JXL** libraries.
+          - Created **XML File for Driver Scripts.**
+          - Created Assert , Verify Commands for Validations, Synchronization commands
+          - Understanding the Requirements and Functional Specifications of the application.
+          - Performed Browser based testing, Primefaces migration testing.
+          - Prepared & executed test cases and reported the results.
+          - Used **JIRA** for all the defects found during Functional and Regression testing and follow up the bug life cycle.
+          - Involved in Review the Test Cases (Peer Review).
+          - Involved in weekly review meetings.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                      # other value (or no value) means no border will be displayed
+        title: Online Edition of Eenadu - Ushodaya Enterprises
+        link:
+        link_text:
+        additional_links:
+          - title:
+            icon:
+            url:
+        quote: >
+          eenadu newspaper is the largest circulated daily in telugu language. Eenadu - The Heart and Soul of Andhra Pradesh- is the most comprehensive Website on general infotainment with the richest regional language online content updated 24/7 with local district news of AP to the International News serving peak traffic of over 50 Million Page Views per month. It has daily news updates under different modules like Latest, Business, Editorial, Champion, Cinema and others.
+        description: | # this will include new lines to allow paragraphs
+          - Understanding the Requirements and Functional Specifications of the application.
+          - Prepared & executed test cases and reported the results.
+          - Involved in Review the Test Cases (Peer Review).
+          
+          ** Tools Used:**
+          - Manual Testing
   - title: Experience
     layout: list
     content:
