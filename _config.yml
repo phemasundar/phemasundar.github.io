@@ -109,8 +109,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: TESCO Project 2
-        link:
-        link_text:
+        link: https://github.com/phemasundar/dcp-load-test
+        link_text: DCP Load Test
         additional_links:
           - title:
             icon:
@@ -169,8 +169,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: True iServices - McKinsey
-        link:
-        link_text:
+        link: https://github.com/phemasundar/iservice-app-automation
+        link_text: True iServices
         additional_links:
           - title:
             icon:
@@ -187,12 +187,12 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: Coin Automation - vereniging COIN
-        link:
-        link_text:
+        link: https://github.com/phemasundar/CoinAutomation
+        link_text: Coin Automation
         additional_links:
           - title:
-            icon:
-            url:
+            icon: fab fa-github
+            url: https://github.com/phemasundar/CoinAutomationMaven
         quote: >
           COIN Association is a partnership between providers of electronic communication services and networks. COIN ensures a joint and reliable service provision that allows end-users to easily change providers, while remaining available on their phone number. In addition, we assist our members to meet a number of the legal obligations they have as telecommunications providers. We also provide services that help you and other providers to cooperate with each other more efficiently, for example, in terms of number portability. So together we can make sure that end-users are assisted quickly, properly and in a user-friendly manner.
         description: | # this will include new lines to allow paragraphs
@@ -216,12 +216,15 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: Tribune Automation - Chicago Tribune
-        link:
-        link_text:
+        link: https://github.com/phemasundar/Tribune
+        link_text: Tribune Automation
         additional_links:
           - title:
-            icon:
-            url:
+            icon: fab fa-github
+            url: https://github.com/phemasundar/tribunekeywordautomation
+          - title: TribuneWebScriptLess
+            icon: fab fa-github
+            url: https://github.com/phemasundar/TribuneWebScriptLess
         quote: >
           Tribune is a media-based company majorly into newspaper which is one of the leading newspapers in USA. Our current project is about automating the test cases for online newspaper edition. Currently we are using Key word driven Framework.
         description: | # this will include new lines to allow paragraphs
@@ -255,8 +258,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: UC eBanking Prime - UniCredit Bank, Germany
-        link:
-        link_text:
+        link: https://github.com/phemasundar/trivium.eWMS
+        link_text: eWMS
         additional_links:
           - title:
             icon:
