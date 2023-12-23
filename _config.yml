@@ -165,18 +165,7 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          This is a test project for React Native app iTrue Service for End to End testing
-          - Tested the iOS app in both English and Thai language.
-          - Executed Tests on Sauce labs
-          - Implemented Appium & TestNG listeners for generating custom HTML reports
-          
-          **Tools Used:**
-          - Appium (Android & iOS Native app automation)
-          - JAVA
-          - TestNG
-          - Maven
-          - Sauce Labs
-          - Page Object Model
+          Description about the work on/with the project
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
@@ -191,11 +180,19 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This is a test project for React Native app iTrue Service for End to End testing
+          - Tested the iOS app in both English and Thai language.
+          - Executed Tests on Sauce labs
+          - Implemented Appium & TestNG listeners for generating custom HTML reports
           
           **Tools Used:**
-          - Android & iOS native app automation
+          - Appium (Android & iOS Native app automation)
+          - JAVA
+          - TestNG
+          - Maven
           - Sauce Labs
+          - Page Object Model
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
