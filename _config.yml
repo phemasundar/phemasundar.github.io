@@ -267,7 +267,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: UC eBanking Prime - UniCredit Bank, Germany
+        title: UC eBanking Prime | UniCredit Bank, Germany | Banking Domain
         link: https://github.com/phemasundar/trivium.eWMS
         link_text: eWMS
         additional_links:
@@ -287,6 +287,15 @@ content:
           - Used **JIRA** for all the defects found during Functional and Regression testing and follow up the bug life cycle.
           - Involved in Review the Test Cases (Peer Review).
           - Involved in weekly review meetings.
+          
+          **Tools Used:**
+          - Manual Testing
+          - Module Testing
+          - Multiuser Testing
+          - Smoke Testing
+          - Cross Browser testing
+          - Selenium
+          - TestNG
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
