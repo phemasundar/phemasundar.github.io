@@ -133,10 +133,17 @@ content:
           - title:
             icon:
             url:
-        quote: >
-          Short overview of the project (optional)
+        quote:
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - Conducted a comprehensive assessment of the software testing process for a team, evaluating both manual and automated testing practices.
+          - Assessed the team's proficiency in manual testing methodologies, identifying strengths and areas for improvement.
+          - Evaluated the team's usage of Selenium with Java for test automation, analyzing the effectiveness of automated testing in improving overall test coverage and efficiency.
+          - Examined the integration of Jenkins into the testing workflow, assessing its role in continuous integration and deployment processes.
+          - Investigated the team's adherence to Agile practices, ensuring alignment with Agile principles and identifying opportunities for process optimization.
+          - Collaborated with team members to understand their testing challenges and worked towards implementing solutions that align with industry best practices.
+          - Facilitated discussions and workshops to share insights on testing methodologies, automation tools, and Agile/DevOps practices.
+          - Provided actionable recommendations and strategies to enhance testing efficiency, automation coverage, and overall software quality.
+          - Produced a detailed report summarizing the assessment findings, outlining key areas of improvement, and presenting a roadmap for enhancing the team's testing capabilities.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
