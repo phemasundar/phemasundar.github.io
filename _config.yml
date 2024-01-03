@@ -330,7 +330,8 @@ content:
         sub_title: Principal Consultant
         caption: March 2015 - present
         link: https://xebia.com/
-        quote:
+        quote: >          
+          Global force in digital transformation: Xebia empowers companies with cutting-edge tech and innovative consulting. Since 2001, our 5,000+ passionate technologists across Agile, DevOps, Cloud & more, have helped the world's top 250 overcome digital hurdles and embrace new horizons. We partner with them to implement game-changing solutions, new business models, and future-proof their success.
         description: | # this will include new lines to allow paragraphs
           - As a senior consultant at Xebia, I have helped multiple clients by implementing functional UI automation tests for browsers & mobile apps by using tools Selenium & Appium.
           - As a lead consultant in Xebia, I have helped clients with their Testing process assessment, thereby the betterment of their testing process.
@@ -340,7 +341,7 @@ content:
         caption: October 2012 - February 2015
         link: https://trivium-esolutions.com/
         quote: >
-          Short description of the company (optional)
+          Established in 2007, Trivium is a technology-driven enterprise specializing in crafting cutting-edge solutions for clients in German-speaking Europe. Bolstered by the strategic acquisition of akm software GmbH in 2016, we expanded our capabilities in Industrial IoT and cultivated a robust clientele of international corporations in Germany and Switzerland. With over 150 dedicated professionals, we offer consultancy and software development services, focusing on digital projects in infrastructure and industrial domains. Operating from offices in Munich and Bangalore, our distributed delivery model ensures seamless project execution. Our leadership, spanning both locations, brings extensive expertise in software development and Industrial IoT, driving Trivium's success.
         description: | # this will include new lines to allow paragraphs
           As a test engineer at Trivium, I have introduced test automation into the team by using Selenium & JAVA. Automated most of the repeated tasks like creating Test users creation, Sanity tests, Creating Test data, etc...
 
