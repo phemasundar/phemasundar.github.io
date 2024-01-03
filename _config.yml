@@ -332,7 +332,8 @@ content:
         link: https://xebia.com/
         quote:
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - As a senior consultant at Xebia, I have helped multiple clients by implementing functional UI automation tests for browsers & mobile apps by using tools Selenium & Appium.
+          - As a lead consultant in Xebia, I have helped clients with their Testing process assessment, thereby the betterment of their testing process.
       - layout: left
         title: Trivium eSolutions
         sub_title: Senior Software Test Engineer
@@ -341,7 +342,7 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          As a test engineer at Trivium, I have introduced test automation into the team by using Selenium & JAVA. Automated most of the repeated tasks like creating Test users creation, Sanity tests, Creating Test data, etc...
 
   - title: Education
     layout: list
