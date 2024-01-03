@@ -330,7 +330,7 @@ content:
         sub_title: Principal Consultant
         caption: March 2015 - present
         link: https://xebia.com/
-        quote: >          
+        quote: >
           Global force in digital transformation: Xebia empowers companies with cutting-edge tech and innovative consulting. Since 2001, our 5,000+ passionate technologists across Agile, DevOps, Cloud & more, have helped the world's top 250 overcome digital hurdles and embrace new horizons. We partner with them to implement game-changing solutions, new business models, and future-proof their success.
         description: | # this will include new lines to allow paragraphs
           - As a senior consultant at Xebia, I have helped multiple clients by implementing functional UI automation tests for browsers & mobile apps by using tools Selenium & Appium.
