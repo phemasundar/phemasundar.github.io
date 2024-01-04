@@ -341,7 +341,7 @@ content:
         caption: October 2012 - February 2015
         link: https://trivium-esolutions.com/
         quote: >
-          Founded in 2007, Trivium builds enterprise-grade technology solutions for German-speaking Europe. We empower clients across infrastructure and industrial sectors with expert consulting and software development services, including Industrial IoT expertise gained through our 2016 acquisition of akm software GmbH. Today, our 150+ strong team, based in Munich and Bangalore, collaborates globally to deliver success for long-standing customers like yours. Count on Trivium's proven experience and strategic focus to elevate your next digital project.
+          Founded in 2007, Trivium empowers clients across German-speaking Europe with enterprise-grade tech solutions. We combine consulting expertise with software development, specializing in digital projects for infrastructure and industrial domains. Our 150+ strong team, led by experienced leadership in Munich and Bangalore, tackles Industrial IoT challenges from machine level to cloud, serving a distinguished roster of long-term clients across diverse industries.
         description: | # this will include new lines to allow paragraphs
           As a test engineer at Trivium, I have introduced test automation into the team by using Selenium & JAVA. Automated most of the repeated tasks like creating Test users creation, Sanity tests, Creating Test data, etc...
 
