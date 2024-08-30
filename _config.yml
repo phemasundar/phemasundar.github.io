@@ -73,7 +73,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: Stock Valuation (STVS)
-        sub_title: Tesco (via Xebia)
+        sub_title: Tesco (via Xebia) - Bangalore, India
         caption: November 2019 to November 2023
 #        link:
 #        link_text: Jan 2024 - Jul 2024
@@ -106,6 +106,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Store Colleague Experience - Price Integrity
+        sub_title: Tesco (via Xebia) - Bangalore, India
+        caption: November 2019 to November 2023
         link: https://github.com/phemasundar/test-automation-core
         link_text: Parent Repo
         additional_links:
@@ -142,6 +144,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: TESCO Project 2
+        sub_title: Sub title (eg. Qualification or Job title)(optional)
+        caption: Item caption (eg. Employment or course dates)(optional)
         link: https://github.com/phemasundar/dcp-load-test
         link_text: DCP Load Test
         additional_links:
@@ -160,6 +164,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: Test Assessment - Harman
+        sub_title: HARMAN - Bangalore, India
+        caption: October 2019 to October 2019
         link: https://docs.google.com/spreadsheets/d/1gA76fgyqEHseIicL_kAbg67k6v6bhf1k/edit?usp=drive_link&ouid=113723328813175302587&rtpof=true&sd=true
         link_text: Assessment Plan
         additional_links:
@@ -181,6 +187,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: Lime - McKinsey
+        sub_title: McKinsey & Company (via Xebia) - Bangalore, India & Singapore
+        caption: October 2018 to August 2019
         Domain: Insurance Domain
         link: https://github.com/phemasundar/lime-web-automation-test
         link_text: lime-web-automation-test
@@ -196,6 +204,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: InsideRX - McKinsey
+        sub_title: McKinsey & Company (via Xebia) - Bangalore, India
+        caption: April 2018 to September 2018
         link:
         link_text:
         additional_links:
@@ -211,6 +221,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: True iServices - McKinsey
+        sub_title: McKinsey & Company (via Xebia) - Bangalore, India & Bangkok, Thailand
+        caption: March 2017 to March 2018
         link: https://github.com/phemasundar/iservice-app-automation
         link_text: True iServices
         additional_links:
@@ -237,6 +249,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: Coin Automation - vereniging COIN
+        sub_title: Xebia IT Architects - Gurgaon, India
+        caption: May 2016 to February 2017
         link: https://github.com/phemasundar/CoinAutomation
         link_text: Coin Automation
         additional_links:
@@ -266,6 +280,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: Tribune Automation - Chicago Tribune
+        sub_title: Xebia IT Architects - Gurgaon, India
+        caption: March 2015 to April 2016
         link: https://github.com/phemasundar/Tribune
         link_text: Tribune Automation
         additional_links:
@@ -308,6 +324,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: UC eBanking Prime | UniCredit Bank, Germany | Banking Domain
+        sub_title: Trivium ESolutions Private - Bangalore, India
+        caption: October 2012 to February 2015
         link: https://github.com/phemasundar/trivium.eWMS
         link_text: eWMS
         additional_links:
@@ -340,6 +358,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: Online Edition of Eenadu - Ushodaya Enterprises
+        sub_title: Blue Lotus Software Solutions - Hyderabad, India
+        caption: July 2010 to July 2012
         link:
         link_text:
         additional_links:
