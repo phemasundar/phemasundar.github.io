@@ -73,8 +73,10 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: Stock Valuation (STVS)
-        link:
-        link_text: Jan 2024 - Jul 2024
+        sub_title: Tesco (via Xebia)
+        caption: November 2019 to November 2023
+#        link:
+#        link_text: Jan 2024 - Jul 2024
 #        additional_links:
 #          - title: Native Mobile App Automation
 #            icon: fab fa-github
