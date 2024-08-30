@@ -121,25 +121,33 @@ content:
             icon: fab fa-github
             url: https://github.com/phemasundar/test-automation-api
         quote: >
-          Retail Store colleague experience project helps the Store colleagues (Store managers and on-ground staff) to minimize their manual effort in keeping track of the stock. It has multiple modules like maintaining the current stock numbers, stock to be imported, Information of discounts on items, maintaining the wastage, etc. As a functional automation tester, our job is to make sure that all the modules of the project are working fine with all different sets of data (store items) and can pass the info in between the modules.
+          Retail Store colleague experience project helps the Store colleagues (Store managers and on-ground staff) to minimize their manual effort in keeping track of the stock. It has multiple modules like maintaining the current stock numbers, stock to be imported, Information of discounts on items, maintaining the wastage, etc.
+          Store colleagues use multiple Android apps to perform these tasks. As a functional automation tester, the primary responsibility was to ensure that all mobile apps and their backend APIs function correctly across different datasets (store items) and that information flows seamlessly between modules.
         description: | # this will include new lines to allow paragraphs
-          - Used **Appium & Cucumber** to perform **Functional Testing & Regression & Retesting**.
-          - Build development CI pipeline using CICD tool **Jenkins** with **Git**
-          - Implemented **Hybrid Framework** with **Cucumber & TestNG**.
-          - Responsible for configuring & scheduling Jenkins jobs for executing test cases at regular intervals and nightly builds.
-          - Involved in **Kick-off meetings** with client to gather requirement.
-          - Involved in Sprint planning and prepared Test estimates.
-          - Understanding the Requirements and Functional Specifications of the application.
-          - Prepared & executed test cases and reported the results.
-          - Used **JIRA** for issue tracking.
-          - Involved in Review the Test Cases (Peer Review).
-          - Involved in daily stand-up meetings with onsite team members.
+          - Implemented a hybrid test automation framework, centralizing reusable utility functions to streamline test automation across multiple teams.
+          - Performed **Functional Testing, Regression Testing, and Retesting** using **Appium**,
+          - **RestAssured** and **Cucumber** for mobile applications.
+          - Developed a Continuous Integration (CI) pipeline using **Jenkins and Git**, integrating automated tests with the development process.
+          - Configured and scheduled Jenkins jobs for regular test execution and nightly builds, ensuring consistent testing coverage.
+          - Participated in **kick-off meetings** with clients to gather requirements.
+          - Contributed to sprint planning by preparing test estimates and ensuring alignment with project timelines.
+          - Analyzed and understood the application's requirements and functional specifications.
+          - Developed and executed comprehensive test cases to validate the functionality of the mobile apps and backend APIs.
+          - Prepared, executed, and documented **test cases**, reporting results to stakeholders.
+          - Utilized **JIRA** for issue tracking and management.
+          - Conducted peer reviews of test cases to ensure coverage and quality.
+          - Engaged in **daily stand-up** meetings with the onsite team to discuss progress and coordinate activities.
           
           **Tools Used:**
-          - Selenium WebDriver
+          - Java
+          - Selenium
           - Appium
+          - RestAssured
+          - TestNG
+          - Cucumber
           - Azure DevOps
-          - Soti
+          - Jenkins
+          - Maven
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
@@ -172,21 +180,22 @@ content:
           - title:
             icon:
             url:
-        quote:
+        quote: >
+          This project involved a thorough quality assurance audit for a major global automobile services firm, focusing on the software systems that support critical operations. The primary goal was to assess the effectiveness of the existing quality assurance processes, identify potential risks, and recommend improvements to enhance overall software quality and compliance with industry standards.
         description: | # this will include new lines to allow paragraphs
-          - Conducted a comprehensive assessment of the software testing process for a team, **evaluating both manual and automated testing practices**.
+          - Conducted a comprehensive assessment of the software testing process for a team, evaluating both manual and automated testing practices.
           - Assessed the team's proficiency in manual testing methodologies, identifying strengths and areas for improvement.
-          - Evaluated the team's usage of Selenium with Java for test automation, <mark>analyzing the effectiveness of automated testing</mark> in improving overall test coverage and efficiency.
-          - Examined the integration of Jenkins into the testing workflow, **assessing its role in continuous integration and deployment processes**.
+          - Evaluated the team's usage of Selenium with Java for test automation, analyzing the effectiveness of automated testing in improving overall test coverage and efficiency.
+          - Examined the integration of Jenkins into the testing workflow, assessing its role in continuous integration and deployment processes.
           - Investigated the team's adherence to Agile practices, ensuring alignment with Agile principles and identifying opportunities for process optimization.
-          - Collaborated with team members to <mark>understand the testing challenges</mark> and worked towards implementing solutions that align with industry best practices.
+          - Collaborated with team members to understand the testing challenges and worked towards implementing solutions that align with industry best practices.
           - Facilitated discussions and workshops to share insights on testing methodologies, automation tools, and Agile/DevOps practices.
-          - Provided <mark>actionable recommendations and strategies</mark> to enhance testing efficiency, automation coverage, and overall software quality.
+          - Provided actionable recommendations and strategies to enhance testing efficiency, automation coverage, and overall software quality.
           - Produced a detailed report summarizing the assessment findings, outlining key areas of improvement, and presenting a roadmap for enhancing the team's testing capabilities.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: Lime - McKinsey
+        title:  Lime Insurance
         sub_title: McKinsey & Company (via Xebia) - Bangalore, India & Singapore
         caption: October 2018 to August 2019
         Domain: Insurance Domain
@@ -197,13 +206,27 @@ content:
             icon:
             url:
         quote: >
-          Short overview of the project (optional)
+          The Lime Insurance Project is a web-based platform that allows customers to select and purchase life insurance policies. As a functional test automation engineer, my role was to ensure the application's accessibility and functionality across various devices and form factors.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - Built a robust test automation framework using Selenium and TestNG to streamline testing efforts.
+          - Created and executed multiple TestNG Suites in parallel, significantly reducing test execution time.
+          - Performed Cross-browser testing to verify the application's compatibility and performance across multiple browsers (Chrome, Firefox) and devices of different form factors.
+          - Organized and conducted bug bashes involving the entire team to identify and address defects in the application.
+          - Created custom HTML reports that aligned with client expectations, providing clear and concise test results.
+          - Implemented effective logging using Log4J to track test execution details and troubleshoot issues.
+          - Employed the Page Object Model design pattern to enhance the maintainability of test scripts by separating page elements and actions.
+          - Utilized Test Factory methods to efficiently retrieve test data from Excel files.
+          
+          **Tools Used:**
+          - Java
+          - Selenium
+          - TestNG
+          - Jenkins
+          - Maven
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: InsideRX - McKinsey
+        title: InsideRX
         sub_title: McKinsey & Company (via Xebia) - Bangalore, India
         caption: April 2018 to September 2018
         link:
@@ -213,14 +236,27 @@ content:
             icon:
             url:
         quote: >
-          Short overview of the project (optional)
+          InsideRX is a pharmacy aggregator operating across the USA, offering customers the ability to purchase pharmacy items online at discounted prices. The project involved developing both web and mobile applications to support this service. As a functional automation tester, the role was to ensure that both platforms functioned seamlessly without issues.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-
+          - Implemented a comprehensive test automation framework using Appium,
+          - Selenium, and TestNG to automate testing for both web and mobile applications.
+          - Executed automated tests on cloud devices using TestDroid to ensure broad device coverage and reliability.
+          - Built and maintained Continuous Integration (CI) pipelines in Jenkins to automate the execution of test cases, enabling continuous testing and delivery.
+          - Developed custom HTML reports that provided clear and concise test results, meeting client expectations for detailed reporting.
+          - Implemented effective logging with Log4J to track test execution details and facilitate issue troubleshooting.
+          - Employed the Page Object Model design pattern to enhance the maintainability of test scripts by separating page elements and actions, improving code organization and reusability.
+          
+          **Tools Used:**
+          - Java
+          - Selenium
+          - Appium
+          - TestNG
+          - Jenkins
+          - Maven
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: True iServices - McKinsey
+        title: True iServices
         sub_title: McKinsey & Company (via Xebia) - Bangalore, India & Bangkok, Thailand
         caption: March 2017 to March 2018
         link: https://github.com/phemasundar/iservice-app-automation
@@ -230,25 +266,27 @@ content:
             icon:
             url:
         quote: >
-          Short overview of the project (optional)
+          True iServices is a mobile operator and internet service provider in Thailand. The project involved developing a React-based Android and iOS mobile app that allows customers to purchase and manage their mobile and internet connections. As a functional automation tester, the responsibility was to ensure the seamless operation of both platforms without any issues.
         description: | # this will include new lines to allow paragraphs
-          This is a test project for React Native app iTrue Service for End to End testing
-          - Tested the iOS app in both English and Thai language.
-          - Executed Tests on Sauce labs
-          - Implemented Appium & TestNG listeners for generating custom HTML reports
+          - Developed a comprehensive test automation framework from scratch using
+          - Appium and TestNG to automate testing for both Android and iOS mobile applications.
+          - Executed automated tests on cloud devices using SauceLabs, ensuring extensive device coverage and reliability.
+          - Tested the app in both English and Thai languages to validate its functionality across different locales.
+          - Created custom HTML reports by implementing TestNG listeners, delivering clear and concise test results that aligned with client expectations.
+          - Integrated effective logging with Log4J to capture detailed test execution information and streamline issue troubleshooting.
+          - Applied the Page Object Model design pattern to improve the maintainability and organization of test scripts by separating page elements and actions, enhancing code reusability and structure.
           
           **Tools Used:**
-          - Appium (Android & iOS Native app automation)
           - JAVA
+          - Appium (Android & iOS Native app automation)
           - TestNG
+          - Jenkins
           - Maven
           - Sauce Labs
-          - Page Object Model
-
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: Coin Automation - vereniging COIN
+        title: vereniging COIN
         sub_title: Xebia IT Architects - Gurgaon, India
         caption: May 2016 to February 2017
         link: https://github.com/phemasundar/CoinAutomation
@@ -274,12 +312,14 @@ content:
           - Involved in daily stand-up meetings with onsite team members.
           
           **Tools Used:**
+          - Java
           - SOAP UI
-          - JENKINS pipelines
+          - Jenkins
+          - Maven
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: Tribune Automation - Chicago Tribune
+        title: Chicago Tribune
         sub_title: Xebia IT Architects - Gurgaon, India
         caption: March 2015 to April 2016
         link: https://github.com/phemasundar/Tribune
@@ -311,19 +351,19 @@ content:
           - Involved in daily stand-up meetings with onsite team members.
           
           **Tools Used:**
-          - APPIUM
-          - Mobile Web browser automation
+          - Java
+          - Selenium WebDriver
           - Selenium Grid
-          - Parallel Execution
-          - Keyword driven framework
+          - Appium
           - TestNG
+          - Jenkins
+          - Maven
           - Image Comparision
-          - Selenium Grid
           - Parallel Execution
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: UC eBanking Prime | UniCredit Bank, Germany | Banking Domain
+        title: UniCredit Bank (eWMS)
         sub_title: Trivium ESolutions Private - Bangalore, India
         caption: October 2012 to February 2015
         link: https://github.com/phemasundar/trivium.eWMS
@@ -348,16 +388,18 @@ content:
           
           **Tools Used:**
           - Manual Testing
+          - Java
+          - Selenium
+          - TestNG
+          - Maven
           - Module Testing
           - Multiuser Testing
           - Smoke Testing
           - Cross Browser testing
-          - Selenium
-          - TestNG
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: Online Edition of Eenadu - Ushodaya Enterprises
+        title: Ushodaya
         sub_title: Blue Lotus Software Solutions - Hyderabad, India
         caption: July 2010 to July 2012
         link:
