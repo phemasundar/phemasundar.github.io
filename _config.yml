@@ -54,7 +54,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/IMG_0995_1_500x506_100.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an Automation test Engineer with 12 years of experience in <mark>Functional testing</mark>. I have helped companies release their products by assuring them of better quality.
+  I am an Automation test Engineer with 14 years of experience in <mark>Functional testing</mark>. I have helped companies release their products by assuring them of better quality.
                  
   Some examples include
     - As a test engineer at Trivium, I have introduced test automation into the team by using Selenium & JAVA. Automated most of the repeated tasks like creating Test users creation, Sanity tests, Creating Test data, etc...
@@ -69,6 +69,37 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Stock Valuation (STVS)
+        link:
+        link_text: Jan 2024 - Jul 2024
+#        additional_links:
+#          - title: Native Mobile App Automation
+#            icon: fab fa-github
+#            url: https://github.com/phemasundar/test-automation-native-mobile
+        quote: >
+          STVS is a critical backend service that provides downstream systems with daily and weekly reports on stock valuations. Stock changes occurring on the shop floor are transmitted to the Stock API service via PDA devices, which then pushes this data into Kafka streams. Relevant JSON messages are filtered and stored in local NoSQL databases. These transactions are used to generate daily and weekly reports, which are consumed by downstream systems to assess stock levels.
+        description: | # this will include new lines to allow paragraphs
+          - Designed and developed test automation framework from scratch using Cucumber and RestAssured.
+          - Created comprehensive end-to-end automation test cases, including Kafka message production, Couchbase DB verification, multi-API service integration, and validation of output files in Azure Blob Storage.
+          - Established and led testing team comprising both manual and automation testers.
+          - Provided training and mentorship to team members, ensuring adherence to best practices and efficient testing processes.
+          - Oversaw testing team's activities and deliverables, ensuring timely completion and meeting project requirements.
+          - Defined and implemented clear Definition of Done (DoD) and end-to-end testing process to ensure high-quality deliverables.
+          - Conducted thorough reviews of manual test cases to identify areas for improvement and maintain test case quality.
+          - Built and maintained automated testing pipelines in Azure DevOps, ensuring regular execution and continuous integration.
+          - Streamlined test automation process by creating reusable Test Automation utilities for use across multiple test teams.
+
+          **Tools Used:**
+          - Java
+          - RestAssured
+          - TestNG
+          - Cucumber
+          - Azure DevOps
+          - Gradle
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
