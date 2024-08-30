@@ -69,27 +69,27 @@ content:
   - title: Professional Summary
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 14 years of extensive experience in Automation Testing and DevOps, specializing in Selenium WebDriver, Appium, Jenkins, and AWS.
-      - Designed and developed robust test automation frameworks from scratch.
-      - Expertise in building and managing CI/CD pipelines using Git, Bitbucket, Jenkins, and Azure DevOps.
-      - Strong proficiency in automating RESTful and SOAP Web Services, enhancing test coverage and efficiency.
-      - Skilled in developing Data-Driven, Keyword-Driven, and Hybrid test automation frameworks with TestNG and Maven.
-      - Implemented Selenium Grid for remote browser execution and TestNG for parallel test execution, reducing overall testing time.
-      - Advanced experience in mobile application automation on both Android and iOS platforms using Appium.
-      - Proficient in Java, with a focus on writing generic and project-specific scripts to optimize automation processes.
-      - Comprehensive understanding of all stages of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
-      - Conducted various types of testing, including Smoke, Component, Integration, System, Regression, and Compatibility Testing.
-      - Adept in creating and executing test cases in SOAPUI for comprehensive Web Services testing.
+      - **14 years** of extensive experience in Automation Testing and DevOps, specializing in Selenium WebDriver, Appium, Jenkins, and AWS.
+      - Designed and developed robust **test automation frameworks from scratch**.
+      - Expertise in building and managing **CI/CD pipelines using Git, Bitbucket, Jenkins, and Azure DevOps**.
+      - Strong proficiency in automating **RESTful and SOAP Web Services**, enhancing test coverage and efficiency.
+      - Skilled in developing **Data-Driven, Keyword-Driven, and Hybrid test automation frameworks** with TestNG and Maven.
+      - Implemented **Selenium Grid** for remote browser execution and TestNG for **parallel test execution**, reducing overall testing time.
+      - Advanced experience in **mobile application automation** on both Android and iOS platforms using Appium.
+      - Proficient in **Java**, with a focus on writing generic and project-specific scripts to optimize automation processes.
+      - Comprehensive understanding of all stages of the Software Development Life Cycle (**SDLC**) and Software Testing Life Cycle (**STLC**).
+      - Conducted various types of testing, including **Smoke, Component, Integration, System, Regression, and Compatibility Testing**.
+      - Adept in creating and executing test cases in **SOAPUI** for comprehensive Web Services testing.
       - Experienced in Bug Tracking and Issue Management using JIRA, ensuring effective defect tracking and resolution.
       - Demonstrated ability to manage multiple projects concurrently, maintaining high standards of quality and on-time delivery.
       - Led and supervised testing teams, providing guidance and ensuring adherence to best practices across multiple projects.
-      - Active participant in client kick-off meetings, gathering requirements, and contributing to project planning and test estimations.
+      - Active participant in client **kick-off meetings**, gathering requirements, and contributing to project planning and test estimations.
       - Strong analytical skills in understanding and interpreting application requirements and functional specifications.
       - Experience in reviewing and enhancing manual test cases to align with best practices and project requirements.
       - Collaborated in defect review meetings to prioritize and resolve issues effectively.
-      - Knowledgeable in containerization using Docker, enhancing the scalability and deployment process of test environments.
-      - Proficient in using version control tools like Git for source code management and collaboration.
-      - Experience in performance testing using tools like JMeter and Locust, ensuring application stability under load.
+      - Knowledgeable in containerization using **Docker**, enhancing the scalability and deployment process of test environments.
+      - Proficient in using version control tools like **Git** for source code management and collaboration.
+      - Experience in performance testing using tools like **JMeter** and **Locust**, ensuring application stability under load.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
